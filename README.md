@@ -2,6 +2,12 @@
 
 An interactive Python-based software tool designed to accelerate large-scale neural signal quality control in neuroscience research.
 
+## Interface Preview
+
+<img width="1400" height="901" alt="Screenshot 2026-11-26 at 12 51 52 AM" src="https://github.com/user-attachments/assets/153eb0af-0631-4189-bb21-d0c896115dbd" />
+
+
+
 ## Motivation
 
 While conducting neuroscience research in Professor Karen Moxon's laboratory at UC Davis, I identified a significant bottleneck in our research workflow. Before neural recordings could be used for downstream machine learning experiments, researchers needed to manually inspect thousands of channel-trial combinations.
