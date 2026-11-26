@@ -2,6 +2,10 @@
 
 An interactive Python-based software tool designed to accelerate large-scale neural signal quality control in neuroscience research.
 
+**Impact:** Reduced an estimated two-month neural
+
+data review workflow to under one week.
+
 ## Interface Preview
 
 <img width="1400" height="901" alt="Screenshot 2026-11-26 at 12 51 52 AM" src="https://github.com/user-attachments/assets/153eb0af-0631-4189-bb21-d0c896115dbd" />
@@ -39,3 +43,12 @@ Key features include:
 ## Technologies
 
 Python, NumPy, Matplotlib, PyQt, Jupyter Notebook, CSV and scientific signal processing.
+
+## Quick Start
+
+```bash
+git clone https://github.com/sreyash04/neural-signal-review-tool.git
+cd neural-signal-review-tool
+pip install -r requirements.txt
+python demo.py
+```
